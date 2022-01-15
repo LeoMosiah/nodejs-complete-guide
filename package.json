@@ -11,6 +11,7 @@
   "author": "LeoMosiah",
   "license": "ISC",
   "devDependencies": {
+    "heroku": "^7.59.2",
     "nodemon": "^1.18.3"
   },
   "dependencies": {
